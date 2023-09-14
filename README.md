@@ -1,6 +1,7 @@
-# booking
+
 ![image](https://github.com/hritzs/booking/assets/86352396/538b9f13-4d6b-417d-84cc-4d4af74ec0ac)
-Problem Statement
+#HRITIK GOEL 20BRS1035 WORKINDIA'S API ROUND SUBMISSION
+# Problem Statement
 Hey there, Mr. X. You have been appointed to design a railway management system like IRCTC, where users can come on the platform
 and check if there are any trains available between 2 stations.
 The app will also display how many seats are available between any 2 stations and the user can book a seat if the availability > 0 after
