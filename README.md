@@ -1,6 +1,8 @@
 
 ![image](https://github.com/hritzs/booking/assets/86352396/538b9f13-4d6b-417d-84cc-4d4af74ec0ac)
-#HRITIK GOEL 20BRS1035 WORKINDIA'S API ROUND SUBMISSION
+
+
+# HRITIK GOEL 20BRS1035 WORKINDIA'S API ROUND SUBMISSION
 # Problem Statement
 Hey there, Mr. X. You have been appointed to design a railway management system like IRCTC, where users can come on the platform
 and check if there are any trains available between 2 stations.
